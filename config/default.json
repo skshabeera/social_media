@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://shabeera:Shabeera@devconnector.qruu4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"f3a68bd439336ca1a37a",
+    "githubSecret":"387cfcf7ee29b8717afe7d00ddf679ac9f313b43"
+}
